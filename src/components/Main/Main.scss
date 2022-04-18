@@ -1,0 +1,23 @@
+
+.main {
+    background-image: url(../../images/bg.png);
+    background-repeat: repeat;
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    h1 {
+        text-decoration: underline;
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+
+}
